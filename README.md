@@ -1,6 +1,6 @@
 # Assignments
 
-##Problem 1: Shopkeeper Simulation with STL
+## Problem 1: Shopkeeper Simulation with STL
 
 Problem Summary
 
@@ -30,7 +30,7 @@ Adding persistent data storage for logs (e.g., writing to file).
 
 More realistic handling of loans (partial repayments, loan limits).
 
-Problem 2: Echoes of the Blood Moon (Recursion Trial)
+## Problem 2: Echoes of the Blood Moon (Recursion Trial)
 
 Problem Summary
 
@@ -56,7 +56,7 @@ What Could Be Improved
 
 Could use an iterative DP + binary search method for better performance.
 
-Problem 3: O(n) Sorting Algorithm
+## Problem 3: O(n) Sorting Algorithm
 
 Sorting Algorithm: Counting Sort
 
