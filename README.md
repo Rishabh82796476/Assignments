@@ -1,6 +1,6 @@
 # Assignments
 
-###Problem 1: Shopkeeper Simulation with STL
+##Problem 1: Shopkeeper Simulation with STL
 
 Problem Summary
 
